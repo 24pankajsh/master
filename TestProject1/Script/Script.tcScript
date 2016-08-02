@@ -27,7 +27,7 @@
 				<Prp name="key" type="S" value="{401E7961-9FB6-4FAE-90ED-748C35A9ABDB}"/>
 				<Prp name="pluginname" type="S" value="Script"/>
 				<Prp name="type" type="S" value="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}"/>
-				<Prp name="typename" type="S" value="Script Unit"/>
+				<Prp name="typename" type="S" value=" Script Unit"/>
 			</Node>
 		</Node>
 		<Node name="folders"/>
